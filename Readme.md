@@ -1,5 +1,5 @@
 ﻿
-# <center>**Real Estate Price Prediction System**</center>
+# <center>**Chennai House Price Prediction System**</center>
 
 ## **Table of Contents**
 
