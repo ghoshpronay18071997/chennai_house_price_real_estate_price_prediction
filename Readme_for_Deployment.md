@@ -3,20 +3,25 @@
 
 ## **Table of Contents**
 
-**1.**  [**Problem Statement**](#Section1)
-**2.**  [**Installed & Imported Libraries**](#Section2)
-**3.**  [**Data Pre-processing Steps**](#Section3)
-**4.**  [**Insights from the EDA**](#Section4)
-**5.**  [**Data Postprocessing**](#Section5)
-**6.**  [**Modelling, Hyperparameter Tuning and Prediciton**](#Section6)
+**1.**  [**Problem Statement**](#Section1) <br>
+
+**2.**  [**Installed & Imported Libraries**](#Section2) <br>
+
+**3.**  [**Data Pre-processing Steps**](#Section3)<br>
+
+**4.**  [**Insights from the EDA**](#Section4)<br>
+
+**5.**  [**Data Postprocessing**](#Section5)<br>
+
+**6.**  [**Modelling, Hyperparameter Tuning and Prediciton**](#Section6)<br>
+
 **7.**  [**Deployment**](#Section7)
-**8.**  [**How to run this on your local host / system**](#Section7)
+
+**8.**  [**How to run this on your local host / system**](#Section8)<br>
 
 
-
-<a  id=section1></a>
+<a  name=Section1></a>
 ---
-
 # **1. Problem Statement:-**
 
 
@@ -66,6 +71,8 @@ trusted way to monitor the asset is incredibly important.
 
 - Because there was **no machine learning model for this problem** in the company, you don’t have a quantifiable win condition. You need to build the best possible model
 
+<a  name = Section2></a>
+
 ## **2. Installed & Imported Libraries**
 
 <a  name = Section31></a>
@@ -94,7 +101,7 @@ The following libraries and tools were used for the project:
 
 
 
-<a  name = Section4></a>
+<a  name = Section3></a>
 
 ## **3. Data Pre-processing Steps**
 
@@ -148,7 +155,7 @@ The following libraries and tools were used for the project:
 - Checking the **datatype**.
 
 - Checking the  **Spelling Correction**
-<a name=Section5></a>
+<a name=Section4></a>
 
 ## **4. Insights from the EDA**
 
@@ -209,6 +216,8 @@ and get **response** through the app,py file.
 - Install **PyCharm Community Edition** or any other **IDE** like **Spyder** into your local system and open **app.py** file in that **IDE**.
 
 - After that run the code on the **app.py file** (If you're using Pycharm then then simply press **ctrl +F5** )
+
+<center><img  src="https://github.com/ghoshpronay18071997/real_estate_deployed/blob/main/Photos%20for%20Deployment/Documentary.png"></center>
 
 - Check the console you'll be getting a **link**.
 
